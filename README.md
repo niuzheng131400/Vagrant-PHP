@@ -1,4 +1,4 @@
-# Vagrant-PHP-Stack
+# Vagrant-PHP
 
 A kick-ass Vagrant Stack for PHP developer.
 
